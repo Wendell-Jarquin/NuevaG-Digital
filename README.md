@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="https://nuevaguineanicaragua.com/" target="_blank">
+    <img src="docs/screenshots/preview.png" alt="Preview del sitio" width="900" />
+  </a>
 
 # 🌿 Nueva Guinea Nicaragua — Portal Digital Oficial de la Comunidad
 ### 📰 Noticias • 🗺️ Turismo • 🛍️ E‑commerce local • 🤝 Comunidad
@@ -38,26 +41,61 @@ Ser el principal referente digital de Nueva Guinea: una plataforma **moderna, in
 
 ---
 
-## 🧩 Componentes del portal
+## 🧩 Módulos del portal (secciones)
 
-- 📰 **Noticias y actualidad** de la zona  
-- 🗺️ **Turismo**: lugares, rutas, experiencias y recomendaciones  
-- 🛍️ **E‑commerce local**: productos/servicios de emprendimientos de Nueva Guinea  
-- 🤝 **Comunidad**: espacios para participación ciudadana y cultura  
+- 🏠 **Inicio**
+- 🛍️ **Tienda**
+- 👤 **Nosotros**
+- ✉️ **Contacto**
+- 📰 **Noticias**
+- 📝 **Blog**
+
+> Menú actual (referencia):  
+> ![Menu](image1)
 
 ---
 
 ## 🖼️ Capturas (Screenshots)
 
-> Agrega aquí tus imágenes para que el README se vea “pro”.
->
-> Ejemplo:
-> - `docs/screenshots/home.png`
-> - `docs/screenshots/turismo.png`
-> - `docs/screenshots/tienda.png`
+Sube capturas de cada módulo a `docs/screenshots/` y enlázalas aquí.
+
+### 🏠 Inicio
+- `docs/screenshots/inicio.png`
+
+### 🛍️ Tienda
+- `docs/screenshots/tienda.png`
+
+### 👤 Nosotros
+- `docs/screenshots/nosotros.png`
+
+### ✉️ Contacto
+- `docs/screenshots/contacto.png`
+
+### 📰 Noticias
+- `docs/screenshots/noticias.png`
+
+### 📝 Blog
+- `docs/screenshots/blog.png`
+
+### 🌐 Vista general (opcional)
+- `docs/screenshots/preview.png` (banner/portada para el inicio del README)
 
 ```text
-📌 TIP: crea la carpeta /docs/screenshots y sube 3–6 capturas.
+📌 TIP: usa nombres en minúsculas y sin espacios (inicio.png, tienda.png, etc.)
+📌 TIP: tamaño recomendado: 1280x720 o 1920x1080 (JPG o PNG)
+```
+
+Cuando las tengas subidas, puedes mostrar la galería así:
+
+```markdown
+| Módulo | Captura |
+|------:|:--------|
+| Inicio | ![Inicio](docs/screenshots/inicio.png) |
+| Tienda | ![Tienda](docs/screenshots/tienda.png) |
+| Nosotros | ![Nosotros](docs/screenshots/nosotros.png) |
+| Contacto | ![Contacto](docs/screenshots/contacto.png) |
+| Noticias | ![Noticias](docs/screenshots/noticias.png) |
+| Blog | ![Blog](docs/screenshots/blog.png) |
 ```
 
 ---
@@ -68,26 +106,8 @@ Ser el principal referente digital de Nueva Guinea: una plataforma **moderna, in
 
 ---
 
-## 📱 Opción “súper”: App con WebView (Android / iOS)
+## 🌍 Opción extra: PWA (instalable)
 
-Si quieres convertir el portal en una app rápida (tipo contenedor), estas opciones son ideales:
-
-### ✅ Capacitor (recomendado si vienes de web)
-- Empaqueta tu web como app nativa
-- Soporta WebView + plugins nativos (notificaciones, cámara, etc.)
-
-**Flujo típico:**
-1. Crear proyecto web (o usar el actual)
-2. Integrar Capacitor
-3. Generar builds Android/iOS
-
-### ✅ Flutter WebView (si quieres una app nativa más completa)
-- Interfaz nativa + WebView embebida
-- Puedes añadir pantallas extra (login, onboarding, etc.)
-
----
-
-## 🌍 Opción extra: PWA (instalable sin Play Store)
 Si el sitio se vuelve **PWA**, la gente puede “instalarlo” desde el navegador.
 Incluye:
 - Icono en pantalla de inicio
