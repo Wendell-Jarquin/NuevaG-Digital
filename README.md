@@ -50,61 +50,11 @@ Ser el principal referente digital de Nueva Guinea: una plataforma **moderna, in
 - 📰 **Noticias**
 - 📝 **Blog**
 
-> Menú actual (referencia):  
-> ![Menu](image1)
 
----
-
-## 🖼️ Capturas (Screenshots)
-
-Sube capturas de cada módulo a `docs/screenshots/` y enlázalas aquí.
-
-### 🏠 Inicio
-- `docs/screenshots/inicio.png`
-
-### 🛍️ Tienda
-- `docs/screenshots/tienda.png`
-
-### 👤 Nosotros
-- `docs/screenshots/nosotros.png`
-
-### ✉️ Contacto
-- `docs/screenshots/contacto.png`
-
-### 📰 Noticias
-- `docs/screenshots/noticias.png`
-
-### 📝 Blog
-- `docs/screenshots/blog.png`
-
-### 🌐 Vista general (opcional)
-- `docs/screenshots/preview.png` (banner/portada para el inicio del README)
-
-```text
-📌 TIP: usa nombres en minúsculas y sin espacios (inicio.png, tienda.png, etc.)
-📌 TIP: tamaño recomendado: 1280x720 o 1920x1080 (JPG o PNG)
-```
-
-Cuando las tengas subidas, puedes mostrar la galería así:
-
-```markdown
-| Módulo | Captura |
-|------:|:--------|
-| Inicio | ![Inicio](docs/screenshots/inicio.png) |
-| Tienda | ![Tienda](docs/screenshots/tienda.png) |
-| Nosotros | ![Nosotros](docs/screenshots/nosotros.png) |
-| Contacto | ![Contacto](docs/screenshots/contacto.png) |
-| Noticias | ![Noticias](docs/screenshots/noticias.png) |
-| Blog | ![Blog](docs/screenshots/blog.png) |
-```
-
----
 
 ## 🚀 Demo / Producción
 
 - 🌐 Sitio: https://nuevaguineanicaragua.com/
-
----
 
 ## 🌍 Opción extra: PWA (instalable)
 
