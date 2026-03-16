@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://nuevaguineanicaragua.com/" target="_blank">
-    <img src="docs/screenshots/preview.png" alt="Preview del sitio" width="900" />
+    <img src="icon" alt="Preview del sitio" width="900" />
   </a>
 
 # 🌿 Nueva Guinea Nicaragua — Portal Digital Oficial de la Comunidad
